@@ -1,6 +1,6 @@
 ## 🥷Back-End Developer
 
-**Стек:** `Django, PostgreSQL, JS, Git, Docker, aiogram, bs4, Bootstrap`
+**Стек:** `Python, Django, PostgreSQL, JS, Git, Docker, aiogram, bs4, Bootstrap`
 
 Подрабатываю на частное предприятие на позиции junior-developer, занимаюсь разработкой веб-приложения под руководством старшего коллеги. В мои обязанности входит доработка функционала сайта и подготовка шаблонов `(jinja2 + docxtpl)` для рендера документов. 
 
